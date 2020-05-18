@@ -12,6 +12,7 @@ int main()
             word=1;
             count++;
         }
+    printf("总共有%d个字符\n",count-1);
     printf("总共有 %d 个单词\n",count);
     return 0;
 }
